@@ -1,4 +1,8 @@
-# Image Capture and Video Processing Using OpenCV
+# Ex. No. 02 - Image Capture and Video Processing Using OpenCV
+# Program Developed By
+# Name:FRANKLIN .F
+# Register No:212224240041
+
 
 ## AIM
 
@@ -33,13 +37,7 @@ Display the live video stream using Matplotlib.
 ### Step 5:
 Resize the frame and rotate it using OpenCV functions, then display the processed frames.
 
-## Program Developed By
 
-**Name:** FRANKLIN .F
-
-**Register No:** 212224240041
-
-## Ex. No. 02
 
 ## Output
 
@@ -68,7 +66,8 @@ cap.release()
 
 **Output Screenshot:**
 
-<img width="631" height="481" alt="image" src="https://github.com/user-attachments/assets/ff70bf48-5cd9-4382-b377-89656e388be0" />
+<img width="671" height="521" alt="image" src="https://github.com/user-attachments/assets/35fbab26-0bd3-4f96-a77e-b2f92ed69fff" />
+
 
 
 ---
@@ -107,7 +106,8 @@ cap.release()
 
 **Output Screenshot:**
 
-<img width="626" height="485" alt="image" src="https://github.com/user-attachments/assets/45d6cbc9-ba64-497c-8086-3ad9e60dd495" />
+<img width="636" height="480" alt="image" src="https://github.com/user-attachments/assets/733a9c6e-65a1-4044-95d4-7e6f658031ca" />
+
 
 
 ---
@@ -150,7 +150,8 @@ cap.release()
 ```
 
 **Output Screenshot:**
-<img width="322" height="467" alt="image" src="https://github.com/user-attachments/assets/3a849071-367f-474d-8d30-5ee448d84275" />
+<img width="328" height="467" alt="image" src="https://github.com/user-attachments/assets/79e2eef8-1e5c-4288-bc13-4d36af6d9311" />
+
 
 
 ---
@@ -197,7 +198,8 @@ cap.release()
 
 **Output Screenshot:**
 
-<img width="347" height="457" alt="image" src="https://github.com/user-attachments/assets/ae84a303-7a4c-4f82-b26c-f9ce0c2861be" />
+<img width="297" height="389" alt="download" src="https://github.com/user-attachments/assets/e541d9e8-b932-4d07-9b15-a07799a243d6" />
+
 
 
 ---
